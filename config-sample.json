@@ -1,6 +1,6 @@
 {
-    "telegramApiKey": "<< API KEY HERE >>",
-    "botUsername": "<< BOT USERNAME >>",
+    "telegramApiKey": "5099995022:AAGe6qN1OFj4N7sfThRCkIfLMib6Bjwbi6Mr",
+    "botUsername": "TubidyTagBot",
     "firebaseProjectName": "myapp-a15sd4",
     "firebaseDatabaseSecret": "<< FIREBASE DATABASE SECRET >>",
     "mentionsPerMessage": 5,
